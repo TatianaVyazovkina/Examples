@@ -1,0 +1,15 @@
+D:\GB\C#\Examples\Examples004_Div\bin\Debug\net6.0\Examples004_Div.exe
+D:\GB\C#\Examples\Examples004_Div\bin\Debug\net6.0\Examples004_Div.deps.json
+D:\GB\C#\Examples\Examples004_Div\bin\Debug\net6.0\Examples004_Div.runtimeconfig.json
+D:\GB\C#\Examples\Examples004_Div\bin\Debug\net6.0\Examples004_Div.dll
+D:\GB\C#\Examples\Examples004_Div\bin\Debug\net6.0\Examples004_Div.pdb
+D:\GB\C#\Examples\Examples004_Div\obj\Debug\net6.0\Examples004_Div.csproj.AssemblyReference.cache
+D:\GB\C#\Examples\Examples004_Div\obj\Debug\net6.0\Examples004_Div.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\C#\Examples\Examples004_Div\obj\Debug\net6.0\Examples004_Div.AssemblyInfoInputs.cache
+D:\GB\C#\Examples\Examples004_Div\obj\Debug\net6.0\Examples004_Div.AssemblyInfo.cs
+D:\GB\C#\Examples\Examples004_Div\obj\Debug\net6.0\Examples004_Div.csproj.CoreCompileInputs.cache
+D:\GB\C#\Examples\Examples004_Div\obj\Debug\net6.0\Examples004_Div.dll
+D:\GB\C#\Examples\Examples004_Div\obj\Debug\net6.0\refint\Examples004_Div.dll
+D:\GB\C#\Examples\Examples004_Div\obj\Debug\net6.0\Examples004_Div.pdb
+D:\GB\C#\Examples\Examples004_Div\obj\Debug\net6.0\Examples004_Div.genruntimeconfig.cache
+D:\GB\C#\Examples\Examples004_Div\obj\Debug\net6.0\ref\Examples004_Div.dll
